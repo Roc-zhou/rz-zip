@@ -1,7 +1,7 @@
 {
   "name": "rz-zip",
-  "version": "0.0.1",
-  "description": "要压缩目录下的文件文件夹  。zip\u001b[D\u001b[D\u001b[\u001b\u001b[3~\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b .zip\u001b[D\u001b[D\u001b[D\u001b[成 zip",
+  "version": "0.0.2",
+  "description": "要压缩目录下的文件文件夹",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
